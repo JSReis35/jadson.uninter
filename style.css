@@ -1,0 +1,44 @@
+body {
+    background-color: #f0f8ff; /* cor suave */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #2e8b57; /* cor diferente */
+    text-align: center;
+}
+
+p {
+    font-size: 18px; /* tamanho maior */
+    text-align: justify; /* texto justificado */
+}
+
+ul li {
+    margin-bottom: 10px; /* espaçamento entre itens */
+}
+
+img {
+    border-radius: 10px; /* bordas arredondadas */
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+}
+
+a {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4500; /* muda de cor ao passar o mouse */
+}
